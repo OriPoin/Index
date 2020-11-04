@@ -19,7 +19,7 @@ body {
 }
 
 .profile-card {
-  width: 400px;
+  width: 340px;
   text-align: center;
   position: absolute;
   border-radius: 8px;
@@ -95,9 +95,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 6px 6px;
-  width: 64px;
-  height: 64px;
+  margin: 4px 4px;
+  width: 48px;
+  height: 48px;
   background-color: #fff;
   display: inline-block;
   border-radius: 8px;
@@ -119,7 +119,7 @@ a i::before {
   text-align: center;
   background-size: 300% 300%;
   background-position: 75% 75%;
-  top: 10px;
+  top: 2px;
   left: 0;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
